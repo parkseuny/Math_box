@@ -4,5 +4,11 @@ def add(a, b):
 def subtract(a, b):
   return a-b
 
+<<<<<<< HEAD
+=======
+def multify(a, b):
+  return a*b 
+
+>>>>>>> main
 def divide(a, b):
   return a/b
